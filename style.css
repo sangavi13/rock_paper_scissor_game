@@ -1,0 +1,23 @@
+*{
+	background-color: skyblue;
+	box-sizing: border-box;
+}
+
+h1{
+    padding-left: 500px;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-variant: inherit;
+	color: brown;
+	padding-top: 100px;
+}
+h3{
+	padding-left: 500px;
+	padding-top: 25px;
+
+} 
+.container{
+	padding-left: 500px;
+	padding-top: 25px;
+	
+
+}
